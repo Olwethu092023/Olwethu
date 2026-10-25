@@ -26,4 +26,8 @@ To strengthen my cybersecurity expertise through hands-on experience in security
 - Mimecast
 - Nmap
 
+## Projects
+
+- Nmap Scanning Fundamentals
+
   

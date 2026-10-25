@@ -28,6 +28,6 @@ To strengthen my cybersecurity expertise through hands-on experience in security
 
 ## Projects
 
-- Nmap Scanning Lab
+- <a href="https://github.com/Olwethu092023/Nmap-Scanning-Lab/tree/main">Nmap Scanning Lab</a>
 
   

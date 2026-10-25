@@ -7,7 +7,7 @@ I’m a SOC Analyst (Level 1) and BSc Cyber Security student passionate about th
 
 To strengthen my cybersecurity expertise through hands-on experience in security monitoring, threat detection, incident response and offensive security. My goal is to continuously develop my technical skills, understand emerging threats and contribute to building secure and resilient systems.
 
-##Skills
+## Skills
 
 - **Security Operations:** SOC monitoring, alert triage, security event analysis
 - **Threat Detection:** Suspicious activity investigation, malware detection
@@ -16,3 +16,14 @@ To strengthen my cybersecurity expertise through hands-on experience in security
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS, network security fundamentals
 - **Technical Skills:** Linux, Windows, log analysis, command-line fundamentals
 - **Continuous Learning:** Cybersecurity labs, practical projects, and security research
+
+## Tools
+
+- Microsoft Defender
+- Microsoft Sentinel
+- Elastic SIEM
+- SentinelOne
+- Mimecast
+- Nmap
+
+  

@@ -28,6 +28,6 @@ To strengthen my cybersecurity expertise through hands-on experience in security
 
 ## Projects
 
-- Nmap Scanning Fundamentals
+- Nmap Scanning Lab
 
   

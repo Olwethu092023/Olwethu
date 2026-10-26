@@ -11,11 +11,10 @@ To strengthen my cybersecurity expertise through hands-on experience in security
 
 - **Security Operations:** SOC monitoring, alert triage, security event analysis
 - **Threat Detection:** Suspicious activity investigation, malware detection
-- **Security Tools:** SIEM platforms, Microsoft Defender, firewall monitoring
 - **Offensive Security:** Ethical hacking fundamentals, vulnerability assessment, penetration testing fundamentals
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS, network security fundamentals
 - **Technical Skills:** Linux, Windows, log analysis, command-line fundamentals
-- **Continuous Learning:** Cybersecurity labs, practical projects, and security research
+- **Continuous Learning:** Cybersecurity labs and practical projects 
 
 ## Tools
 
